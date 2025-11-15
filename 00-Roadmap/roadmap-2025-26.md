@@ -1,64 +1,65 @@
 #Cybersecurity Roadmap(Nov 2025- April 2026)
 November 2025 – Foundations
 
-Zaid Sabih Sections 1–4
+-Zaid Sabih Sections 1–4
 
-THM: Intro to Cyber Security, Linux Fundamentals 1–3, Network Fundamentals
+-THM: Intro to Cyber Security, Linux Fundamentals 1–3, Network Fundamentals
 
-Output: Notes + at least 3 rooms
+-Output: Notes + at least 3 rooms
 
-Prepare environment (GitHub, notes, templates)
+-Prepare environment (GitHub, notes, templates)
+
 
 
 December 2025 – Start Phishing Project + Intermediate Hacking
 
-Zaid Sections 5–10
+-Zaid Sections 5–10
 
-THM: Vulnversity, OWASP Top 10, Pickle Rick
+-THM: Vulnversity, OWASP Top 10, Pickle Rick
 
-Project Phase 1:
+-Project Phase 1:
 
-Create GitHub repo
+-Create GitHub repo
 
-Collect phishing & benign URLs
+-Collect phishing & benign URLs
 
-Create raw_data.csv
+-Create raw_data.csv
 
-Extract lexical features
+-Extract lexical features
 
-Train baseline model
+-Train baseline model
 
 
 
 January 2026 – Project Phase 2 + Deeper Web Hacking
 
-Zaid Sections 11–15
+-Zaid Sections 11–15
 
-THM: Mr Robot, Blue, Steel Mountain
+-THM: Mr Robot, Blue, Steel Mountain
 
-Project Phase 2:
+-Project Phase 2:
 
-Add WHOIS + SSL features
+-Add WHOIS + SSL features
 
-Build Streamlit UI
+-Build Streamlit UI
 
-Deploy to Streamlit Cloud
+-Deploy to Streamlit Cloud
 
-Write README & documentation
+-Write README & documentation
 
 
 
 February 2026 – Polish + Portfolio + Advanced Labs
 
-THM: Internal, Relevant
+-THM: Internal, Relevant
 
-Create final report
+-Create final report
 
-Record project demo video
+-Record project demo video
 
-Update LinkedIn & GitHub portfolio
+-Update LinkedIn & GitHub portfolio
 
-Resume preparation
+-Resume preparation
 
 Internship/job applications start
 
