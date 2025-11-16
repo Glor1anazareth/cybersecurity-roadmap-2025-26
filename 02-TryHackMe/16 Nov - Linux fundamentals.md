@@ -15,9 +15,9 @@
 - find
 
 ## Shell operators introduced
-- && 
-- >
-- >>
+- **&&** 
+- **>**
+- **>>**
 
 ## Highlights
 Understanding basic navigation and file management in Linux.
