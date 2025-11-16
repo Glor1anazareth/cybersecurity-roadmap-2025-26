@@ -5,7 +5,7 @@
 - Defensive Security- Protecting systems and network
 - Carrers in Cyber- Different roles in cybersecurity and their significance
 
-  *Networking Fundamentals:*
+ *Networking Fundamentals:*
   - Networking and its basic concepts and definition
   - IP Address and types
   - MAC Address
