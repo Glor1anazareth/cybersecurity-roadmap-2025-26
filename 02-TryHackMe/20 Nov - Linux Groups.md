@@ -1,4 +1,4 @@
-// Linux Groups Commands
+## Linux Groups Commands
 - groupadd groupname
 - groupdel groupname
 - usermod -aG groupuser
