@@ -1,0 +1,5 @@
+## On the day I continued with rest of the tasks 5-9 from Windows fundamentals part2 
+- System Information : msinfo32.exe, sections :Hardware Resources, Components, Software Environment
+- Resource Monitor: resmon, sections: CPU, Disk, Network, Memory
+- Command Prompt: cmd, simple commands like hostname, whoami, ipconfig, cls, netstat
+- Registry Editor: regedit32.exe 
