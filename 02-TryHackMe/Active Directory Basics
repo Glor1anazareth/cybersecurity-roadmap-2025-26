@@ -1,0 +1,22 @@
+# Active Directory Basics
+
+**Room:** [TryHackMe – Active Directory Basics](https://tryhackme.com/room/winadbasics)
+**Status:** In Completed
+
+## Summary
+Introduced core Active Directory concepts: domain objects, security
+principals (users, machines), Organizational Units (OUs), and the
+Active Directory Users and Computers (ADUC) console.
+
+## Key Concepts
+- **Users** — security principals representing people or services;
+  authenticated and granted access to network resources
+- **Machines** — every domain-joined computer gets an account; acts as
+  local admin on its own machine but limited rights domain-wide
+- **OUs** — used to organize users/computers by department
+  (e.g. IT, Management, Marketing, Sales, R&D) for easier policy management
+
+## Practical Steps
+- Navigated `thm.local` domain structure in ADUC
+- Created a new Organizational Unit under `thm.local/THM`
+- Reviewed existing user accounts (Christine, Robert, Sophie, Thomas)
