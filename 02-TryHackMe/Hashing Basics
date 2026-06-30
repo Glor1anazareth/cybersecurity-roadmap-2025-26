@@ -1,0 +1,23 @@
+# Hashing Basics
+
+**Room:** [TryHackMe – Hashing Basics](https://tryhackme.com/room/hashingbasics)
+**Status:** Completed
+
+## Summary
+Covered how passwords are stored (plaintext vs. hashed), explored the
+rockyou.txt wordlist used in offensive security tooling, and practiced
+identifying hash algorithms using online tools.
+
+## Key Commands
+\`\`\`bash
+wc -l rockyou.txt      # Count entries in the wordlist (14M+ passwords)
+head rockyou.txt        # Preview top entries
+\`\`\`
+
+## Key Takeaways
+- `rockyou.txt` (found at `/usr/share/wordlists/`) originates from the
+  2009 RockYou data breach, where passwords were stored in plaintext
+- Identified an unknown hash as MD5 using a hash-identifier tool based
+  on its length and character set
+- Plaintext storage and weak/reversible hashing algorithms are common
+  root causes of large-scale credential breaches
