@@ -1,0 +1,25 @@
+# Windows PowerShell
+
+**Room:** [TryHackMe – Windows PowerShell](https://tryhackme.com/room/windowspowershell)
+
+## Summary
+Practiced PowerShell cmdlets for file/directory management and module
+discovery — creating, copying, removing items, and reading file contents.
+
+## Key Commands
+\`\`\`powershell
+New-Item -Path ".\captain-cabin\captain-wardrobe" -ItemType "Directory"
+Copy-Item -Path .\captain-hat.txt -Destination .\captain-cabin\
+Get-ChildItem -Path ".\captain-cabin\"
+Remove-Item -Path ".\captain-cabin\captain-wardrobe\captain-boots.txt"
+Get-Content -Path ".\captain-hat.txt"
+Find-Module -Name "PowerShell*"
+Install-Module -Name "PowerShellGet"
+\`\`\`
+
+## Notes
+- `Copy-Item` / `Move-Item` are PowerShell equivalents of `copy` / `move`
+- `Get-Content` works like `cat` (Linux) or `type` (CMD)
+- Connected to a remote target over SSH via Remmina to complete lab tasks
+
+
