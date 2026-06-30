@@ -1,0 +1,18 @@
+# John the Ripper: The Basics
+
+**Room:** [TryHackMe – John the Ripper: The Basics](https://tryhackme.com/room/johntheripper0)
+**Status:** Completed
+
+## Summary
+Practiced identifying and cracking password hashes using an online
+hash-decryption tool, reinforcing the relationship between hash type
+identification and successful cracking attempts.
+
+## Key Takeaways
+- Confirmed a hash as **MD5** via identifier tooling before attempting
+  to crack it — algorithm identification is a required first step,
+  since cracking tools need to know the correct hash function
+- Successfully cracked an MD5 hash and recovered the plaintext
+  password using a wordlist-based lookup
+- Demonstrates why weak/unsalted hashing (like raw MD5) is considered
+  insecure for password storage in production systems
