@@ -1,0 +1,21 @@
+# Linux Fundamentals Part 3
+
+**Room:** [TryHackMe – Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+**Status:** Completed
+
+## Summary
+Covered process management, service control, the Nano text editor, and
+task automation via cron/crontab on Linux systems.
+
+## Key Commands
+\`\`\`bash
+nano myfile                      → Create/edit a file
+ps aux | less                    → List running processes
+systemctl stop <service>         → Stop a service
+systemctl enable <service>       → Enable service on boot
+fg                                → Bring backgrounded process to foreground
+kill -SIGTERM <pid>              → Cleanly terminate a process
+\`\`\`
+
+## Crontab Notes
+- Crontab entries follow: minute hour day-of-month month day-of-week command
