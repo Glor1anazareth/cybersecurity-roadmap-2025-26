@@ -25,5 +25,3 @@ insecure equivalents via TLS/SSL.
   and requires separate control/data channel handling — trickier to
   pass through strict firewalls than SFTP
 
-## Evidence
-![Secure protocol port mapping exercise](./screenshots/secure-protocol-mapping.png)
